@@ -63,6 +63,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-stats)
 
 
-## 📈 my github stats
+## <p align="center"> 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aakash2201&show_icons=true&theme=gotham" alt="aakash2201" />
