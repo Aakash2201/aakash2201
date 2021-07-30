@@ -33,8 +33,8 @@ with something or just for saying hello, then get in touch.
 
 <br>
 
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+<img height="30" src="hhttps://ultimatecourses.com/assets/category/html-227ad387715c14d3c2be832da3780deb52a8d162d65e655254903bd80a176f56.svg">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
