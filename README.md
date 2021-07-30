@@ -52,25 +52,21 @@ with something or just for saying hello, then get in touch.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash2201&theme=dark&hide_langs_below=1" />
 </a>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
+<!-- 
 
   <div align="left">
-    
+     -->
   <h2>🚧 my todoist stats:</h2>
 
     [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-      stats)
-  </div>
+<!--   </div>
   
-  <div align="right">
+  <div align="right"> -->
    <h2>Now Playing 🎧</h2>
 
     [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-  </div>
+<!--   </div> -->
 
 
 <br>
