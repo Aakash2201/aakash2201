@@ -26,7 +26,7 @@ I love to create new things and I like to tell new stories. My goal is to tell I
   
 If you have a project that you want to get started, or if you need my help
 with something or just for saying hello, then get in touch. 
-[##Contact Me](patwardhanaakash007@gmail.com)
+## [Contact Me](patwardhanaakash007@gmail.com)
 
 
 
@@ -52,6 +52,10 @@ SCSS         19 mins         ▒░░░░░░░░░░░░░░░░
 JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/aakash2201">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash2201&theme=dark&hide_langs_below=1" />
+</a>
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
