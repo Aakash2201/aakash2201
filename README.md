@@ -58,7 +58,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-<div>
+
   <div align="left">
     
   <h2>🚧 my todoist stats:</h2>
@@ -71,7 +71,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
     [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
   </div>
-</div>
+
 
 <br>
 
