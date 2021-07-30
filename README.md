@@ -59,6 +59,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 663 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aakash2201&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📈 my github stats
