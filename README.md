@@ -53,20 +53,20 @@ with something or just for saying hello, then get in touch.
 </a>
 
 
-<!-- 
+
 
   <div align="left">
-     -->
+    
   <h2>🚧 my todoist stats:</h2>
 
     [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-      stats)
-<!--   </div>
+  </div>
   
-  <div align="right"> -->
+  <div align="right">
    <h2>Now Playing 🎧</h2>
 
     [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<!--   </div> -->
+  </div>
 
 
 <br>
