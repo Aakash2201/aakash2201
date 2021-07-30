@@ -18,14 +18,15 @@
 
 hi, I'm [Aakash Patwardhan](https://aakash2201.github.io/Personal-Website/), a passionate self-taught full stack web developer and an aspiring Writer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I love to create new things and I like to tell new stories. My goal is to tell Indian stories which can make impact on world. I also share my thoughts, life experiences and short stories on my blog named as ["Sky & Beyond"](https://sky-n-beyond.blogspot.com/)
 
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+If you have a project that you want to get started, or if you need my help
+with something or just for saying hello, then get in touch. [email](patwardhanaakash007@gmail.com) :)
+
 
 **languages and tools:**  
 
