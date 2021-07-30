@@ -1,4 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.instagram.com/___aakashpat___/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
 <a href="https://twitter.com/aakash_milind">
   <img align="left" alt="Aakash patwardhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
