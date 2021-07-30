@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/blogger.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -26,7 +26,7 @@ I love to create new things and I like to tell new stories. My goal is to tell I
   
 If you have a project that you want to get started, or if you need my help
 with something or just for saying hello, then get in touch. 
-**[Contact Me](patwardhanaakash007@gmail.com)**
+**[Contact Me ➡](patwardhanaakash007@gmail.com)**
 
 
 
