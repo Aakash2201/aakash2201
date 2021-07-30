@@ -53,12 +53,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://sky-n-beyond.blogspot.com/" target="_blank"><img src="https://sky-n-beyond.blogspot.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,936 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 663 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-stats)
 
 
