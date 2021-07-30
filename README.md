@@ -29,7 +29,7 @@ with something or just for saying hello, then get in touch.
 
 
 
-## **languages and tools:**  
+## Skills  
 
 <br>
 
