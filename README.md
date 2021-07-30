@@ -58,9 +58,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
+<div float:left;>
+  
 🚧 my todoist stats:
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-stats)
+</div>
 <div align="right" width="500" height="320">
 <h2>Now Playing 🎧</h2>
 
