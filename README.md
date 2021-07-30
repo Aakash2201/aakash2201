@@ -20,7 +20,7 @@ hi, I'm [Aakash Patwardhan](https://aakash2201.github.io/Personal-Website/), a p
 I love to create new things and I like to tell new stories. My goal is to tell Indian stories which can make impact on world. I also share my thoughts, life experiences and short stories on my blog named as ["Sky & Beyond"](https://sky-n-beyond.blogspot.com/)
 
 
- <img align="right" alt="GIF" style="border-radius:25px;" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" border-radius="25px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
   
 If you have a project that you want to get started, or if you need my help
