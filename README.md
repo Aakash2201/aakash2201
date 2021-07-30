@@ -26,7 +26,7 @@ I love to create new things and I like to tell new stories. My goal is to tell I
   
 If you have a project that you want to get started, or if you need my help
 with something or just for saying hello, then get in touch. 
-##[Contact Me](patwardhanaakash007@gmail.com)
+[##Contact Me](patwardhanaakash007@gmail.com)
 
 
 
