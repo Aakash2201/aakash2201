@@ -58,13 +58,14 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-## 🚧 my todoist stats:
+🚧 my todoist stats:
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=aakash2201&theme=blue-green)](https://github.com/aakash2201/github-readme-streak-stats)
-
+<div align="right">
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)</div>
+
 <br/>
 ---
 
