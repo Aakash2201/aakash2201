@@ -56,8 +56,7 @@ with something or just for saying hello, then get in touch.
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
 <br>
-
-
-<br>
+  
 ## Endorsements ✅
+  
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aakash2201&show_icons=true&theme=gotham" alt="aakash2201" />
