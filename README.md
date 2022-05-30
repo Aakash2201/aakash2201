@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/aakash-patwardhan-5700681a0/">
   <img align="left" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31yhho2fbnffojp4ddhtr3fgg7ia">
-  <img align="left" alt="Aakash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=aakash2201.aakash2201)
 
