@@ -11,7 +11,7 @@ I'm Aakash Patwardhan, a passionate Web Developer with a keen interest in creati
 ## 🛠️ Tech Stack
 
 ### Languages & Tools:
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/office/40/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Angular.js](https://img.icons8.com/color/48/000000/angularjs.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![QT](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/office/40/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Angular.js](https://img.icons8.com/color/48/000000/angularjs.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ## 💻 Featured Projects
 
