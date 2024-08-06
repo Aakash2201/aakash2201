@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm Aakash Patwardhan, a passionate self-taught Full Stack Web Developer and aspiring Writer from India. Welcome to my creative corner on GitHub where I bring ideas to life through code and storytelling!
+I'm Aakash Patwardhan, a passionate Web Developer with a keen interest in creating dynamic and responsive web applications. I specialize in front-end and back-end development, leveraging modern technologies to build user-friendly and efficient solutions. Welcome to my creative corner on GitHub where I bring ideas to life through code !
 
 - 🔭 I’m currently exploring the latest web development trends and technologies.
 - 🌱 Always learning and growing to become a better developer and storyteller.
@@ -11,7 +11,7 @@ I'm Aakash Patwardhan, a passionate self-taught Full Stack Web Developer and asp
 ## 🛠️ Tech Stack
 
 ### Languages & Tools:
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/office/40/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![React](https://img.icons8.com/office/40/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Angular.js](https://img.icons8.com/color/48/000000/angularjs.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![QT](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png)
 
 ## 💻 Featured Projects
 
